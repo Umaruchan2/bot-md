@@ -5,7 +5,7 @@ global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
 ['6289524208209', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', true],
-['6289524208209', 'Sakura-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
+['6281779211748', 'Sakura-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -46,11 +46,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
 global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/the.sad.boy01"
+global.urlnya = "https://github.com/RyhnXD"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 895-2420-8209'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
