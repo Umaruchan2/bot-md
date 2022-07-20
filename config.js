@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
-global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
+global.linkgc = 'https://chat.whatsapp.com/IJ5wIhRoB4i5d89Av7QWNq'
 global.linkig = 'https://www.instagram.com/the.sad.boy01'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
@@ -74,7 +74,7 @@ global.thumbnailUrl = [
 //============= Games ================//
 global.benar = '_*Benar✅*_'
 global.salah = '_*Salah❌*_'
-global.dikit = "dikit lagi, semangat ya :')"
+global.dikit = "dikit lagi"
 
 global.multiplier = 100 // The higher, The harder levelup
 
